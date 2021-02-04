@@ -1,6 +1,6 @@
 ### A static website for my father 💕
 ----
-###### Make a better UI for the aldready existing website
+#### Make a better UI for the aldready existing website
 - url: http://careerinlichyd.com/
 
 ### Aim:
@@ -11,7 +11,7 @@
 	- Image scaling
 	- Using good carousel and not the one that's in the previoud version of the site
 - Implementation details:
-	- contact forms should never break.
+	- contact forms should never break. [near-perfect 😁]
 	- provide meaningful validation keeping in mind uneducated people.
 
 
