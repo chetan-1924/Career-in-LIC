@@ -7,6 +7,7 @@
 - Improve the UI
 - Design details being planned/concentrated on:
 	- Contact forms
+	- Responsiveness of the website
 	- Reactiveness of the website
 	- Image scaling
 	- Using good carousel and not the one that's in the previoud version of the site
